@@ -91,7 +91,7 @@ I'm a passionate software developer focused on creating efficient, scalable, and
 
 <div align="center">
   
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 ⭐ From [hitesh-minhas](https://github.com/hitesh-minhas) | Feel free to star ⭐ my repositories if you find them interesting!
 
