@@ -1,66 +1,78 @@
 <div align="center">
-  
-# 👋 Hello, I'm Hitesh Minhas
 
-### Software Developer | Tech Enthusiast | Problem Solver
+# 👋 Hi, I'm Hitesh Kumar  
+### Software Developer | Web Developer | Problem Solver  
+
+Building clean, scalable, and user-focused web applications 🚀  
 
 [![GitHub followers](https://img.shields.io/github/followers/hitesh-minhas?style=social)](https://github.com/hitesh-minhas)
-[![Profile Views](https://komarev.com/ghpvc/?username=hitesh-minhas&color=blueviolet&style=flat)](https://github.com/hitesh-minhas)
+[![Profile Views](https://komarev.com/ghpvc/?username=hitesh-minhas&color=0e75b6&style=flat)](https://github.com/hitesh-minhas)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software developer focused on creating efficient, scalable, and user-friendly solutions. I enjoy exploring new technologies and continuously learning to improve my craft.
+I’m a **Computer Applications graduate (BCA)** and a passionate **software developer** with a strong interest in **full-stack web development**.  
+I enjoy turning ideas into real-world applications and continuously improving my skills through projects and problem-solving.
 
-- 🔭 Currently working on innovative projects
-- 🌱 Constantly learning and expanding my skill set
-- 💡 Open to collaboration on interesting projects
-- 📫 Let's connect and build something amazing together
+- 🔭 Currently working on **real-world web applications**
+- 🌱 Learning **backend architecture, system design & DevOps basics**
+- 💡 Interested in **full-stack & backend development**
+- 🤝 Open to **internships, collaborations, and open-source contributions**
+- 📍 Based in **India**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+---
+
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### Backend & Database
+---
+
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### DevOps & Tools
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 🧰 Tools & Environment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh-minhas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh-minhas&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-minhas&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-minhas&theme=tokyonight&hide_border=true)
 
 </div>
@@ -69,10 +81,10 @@ I'm a passionate software developer focused on creating efficient, scalable, and
 
 ## 🎯 Current Focus
 
-- 🔨 Building scalable web applications
-- 📚 Learning advanced system design patterns
-- 🤝 Contributing to open-source projects
-- 🌟 Exploring cloud technologies and DevOps practices
+- 🚀 Building **scalable full-stack applications**
+- 🧠 Strengthening **DSA & backend fundamentals**
+- 🏗️ Learning **system design concepts**
+- 🌐 Exploring **cloud & DevOps tools**
 
 ---
 
@@ -80,19 +92,18 @@ I'm a passionate software developer focused on creating efficient, scalable, and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-minhas)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hitesh.minhas@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiteshminhas)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://hitesh-minhas.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-248540270)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshworks24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://developer-portfolio-lovat-gamma.vercel.app/)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-⭐ From [hitesh-minhas](https://github.com/hitesh-minhas) | Feel free to star ⭐ my repositories if you find them interesting!
+### 💬 *“First, solve the problem. Then, write the code.”* — John Johnson  
+
+⭐ If you like my work, feel free to **star** ⭐ my repositories!
 
 </div>
